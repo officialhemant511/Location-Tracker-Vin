@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416245172679",
+    "project_id": "vinovo-1719e",
+    "storage_bucket": "vinovo-1719e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416245172679:android:a925ea0b00e5ef7736f1e2",
+        "android_client_info": {
+          "package_name": "com.example.attendance_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEhK7214hvuX8XjXMgbZ8VoeDBnvnlJ-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
