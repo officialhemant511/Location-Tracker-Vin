@@ -24,3 +24,10 @@ Flutter SDK installed (v2.0+ recommended)
 Dart SDK installed
 Firebase account and project setup
 Google Maps API key
+
+Project Members->
+Hemant Bhatt(btech)
+yash garg (btech)
+Ansul(bca)
+Rahul(bca)
+zuneirah(bca)
